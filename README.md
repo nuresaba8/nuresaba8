@@ -111,8 +111,13 @@
 
 ## 🗄️ **GitHub Stats**
 
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuresaba8&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuresaba8&layout=compact&theme=radical) |
-|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+<div style="display: flex; justify-content: space-between; background-color: #f5f5dc; padding: 10px; border-radius: 8px;">
+  <!-- Stats with lighter theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nuresaba8&show_icons=true&theme=light" alt="Your GitHub Stats" style="border-radius: 8px;"/>
+  <!-- Languages with lighter theme -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuresaba8&layout=compact&theme=light" alt="Top Languages" style="border-radius: 8px;"/>
+</div>
+
 
 ---
 
